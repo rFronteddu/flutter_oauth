@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337812860945",
+    "project_id": "great-snipe",
+    "storage_bucket": "great-snipe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337812860945:android:756e5e7049e2a555ec81b0",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337812860945-a4frdn2pf47ifipc3ov1cjs3fi15ujnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.security",
+            "certificate_hash": "cf480fa7f661fd35a7ed80488700c20b7bae677a"
+          }
+        },
+        {
+          "client_id": "337812860945-dta4rdfc161lao7ipcb8d71qs06j72k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49ESZ3QoYK6abyOk8e_NacTR5lbwBkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337812860945-dta4rdfc161lao7ipcb8d71qs06j72k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
